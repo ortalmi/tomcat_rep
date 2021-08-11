@@ -1,5 +1,5 @@
 <html>  
 <body>  
-<% out.print(2*5); %>  
+<% out.print("Hello"); %>  
 </body>  
 </html>  
